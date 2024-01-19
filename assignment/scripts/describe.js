@@ -26,10 +26,10 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
+// we declared variable called ‘name’ and we have assign a value of ‘ Dane’
+// In a condtional statement, we have passed another value that 'Mary', the condition will evaluate what we have stored,
+// if it's found true, it will print what inside if () otherwise it will go to the next block,
 // 
-// 
-// 
-//
 
 //CODE
 /*
@@ -45,10 +45,10 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// there is a variable called 'secret'
+// 'code' is set to a numeric value of 123
+// because 'code' equals 123, "super" and "246" is displayed
+// because 'code' is now > 250, "duper" is displayed
 
 //CODE
 /*
@@ -70,10 +70,10 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// variable "isStudent" is set to 'true'
+// variable "age" is set to '34'
+// variable "zip" is set to '55407'
+// for these conditions, console displays "Welcome to Prime!" 
 
 //CODE
 /*
